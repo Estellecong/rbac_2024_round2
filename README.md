@@ -20,7 +20,6 @@ Based on the problem statement, my key responsibilities included:
 
 - Used `pandas` and `numpy` to handle missing values based on variable types (e.g., mode imputation, -1 for unknown categories).
 - Engineered new features such as customer age, working years, and loan-to-interest ratios.
-- Applied **Principal Component Analysis (PCA)** to reduce dimensionality for clustering.
 - Used **KMeans clustering** to identify meaningful customer segments.
 - Visualized and interpreted cluster characteristics with **Plotly** to ensure clarity and business relevance.
 - Summarized each segment with distinct behavioral and demographic traits.
